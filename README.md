@@ -2,11 +2,10 @@
 
 ### An End-to-End SQL Project Exploring Customer Behavior and Menu Profitability
 
-![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Field-Data%20Analytics-brightgreen)
-![Business Intelligence](https://img.shields.io/badge/Focus-Business%20Intelligence-yellow)
-![Revenue Optimization](https://img.shields.io/badge/Objective-Revenue%20Optimization-red)
+![SQL](https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Analysis-Exploratory%20Data%20Analysis-orange?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Domain-Hospitality%20%26%20F%26B-green?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-MySQL%20%2F%20PostgreSQL-lightgrey?style=for-the-badge&logo=database&logoColor=white)
 
 
 ---
